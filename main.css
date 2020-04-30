@@ -1,0 +1,72 @@
+body{
+         background-color: #FA991C;
+}
+#main{
+        position: fixed;
+        background-color: #FBF3F2;
+        left: 8vw;
+        top: 8vh;
+        width: 84vw;
+        height: 84vh;
+}
+h4{
+        position: fixed;
+        top: 13vh;
+        left: 10vw;
+        color: #032539;
+}
+h3{
+        color: #1C768F;
+}
+h1{
+        position: fixed;
+        top: 6vh;
+        left: 10vw;
+        color: #1C768F;
+}
+hr{
+         position: fixed;
+         top: 19vh;
+         width: 84vw;
+}
+#welcomeSign{
+         position: fixed;
+         top: 31vh;
+         left: 15vw;
+}
+#signIn{
+         padding: 20px;
+         padding-top: 10px;
+         border: 2px solid #1C768F;
+         position: fixed;
+         top: 30vh;
+         left: 50vw;
+}
+
+#Moto{
+         font-size: 50px;
+}
+#signIN{
+         font-size: 20px;
+
+}
+#formContent{
+         position: fixed;
+         top: 40vh;
+         left: 30vw;
+}
+#mainCustomer{
+         position: fixed;
+         top: 22vh;
+         left: 20vh;
+
+}
+p{
+         color: #032539;
+}
+
+#addVForm{
+         position: fixed;
+         top: 30vh;
+         left: 30vw;
+ }
