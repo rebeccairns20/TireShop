@@ -1,6 +1,6 @@
 <?php
 
-require_once('../model/database.php');
+require_once('database.php');
 
 $tireID3 = filter_input(INPUT_POST, 'tireID');
 $tpos3 = filter_input(INPUT_POST, 'pos');
