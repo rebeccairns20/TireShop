@@ -1,6 +1,7 @@
 <?php
 
 include '../view/header.php';
+include '../model/dnFunc.php';
 $tires2 = getTire();
 foreach ($tires2 as $tire2) : ?>
 <div id="addVForm">
